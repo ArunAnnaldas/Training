@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<business>
+    <company>Code Blog</company>
+    <owner>Nic Raboy</owner>
+    <employees>
+        <employee>
+            <firstname>Nic</firstname>
+            <lastname>Raboy</lastname>
+        </employee>
+        <employee>
+            <firstname>Maria</firstname>
+            <lastname>Campos</lastname>
+        </employee>
+    </employees>
+</business>
